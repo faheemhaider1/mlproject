@@ -1,0 +1,4 @@
+[2023-05-23 18:15:43,613] 21 root - INFO - Entering data ingestion
+[2023-05-23 18:15:43,620] 24 root - INFO - Data read as data frame
+[2023-05-23 18:15:43,643] 29 root - INFO - Train Test Split Initiating
+[2023-05-23 18:15:43,654] 35 root - INFO - Ingestion of Data has been successful
